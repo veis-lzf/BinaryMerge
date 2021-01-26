@@ -27,4 +27,4 @@
 
   ​                      |---------SHT_Loader_20200914.bin（loader文件）
 
-​                             |---------SHT_20200930_A0(SHT_Loader_20200914).bin（loader+app整合文件）
+  ​                      |---------SHT_20200930_A0(SHT_Loader_20200914).bin（loader+app整合文件）
